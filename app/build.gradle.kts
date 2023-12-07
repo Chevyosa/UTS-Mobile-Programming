@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.febriyann.utslabmp"
+    namespace = "com.febriyann.myuts"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.febriyann.utslabmp"
+        applicationId = "com.febriyann.myuts"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

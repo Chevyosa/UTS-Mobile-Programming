@@ -1,4 +1,4 @@
-package com.febriyann.utslabmp
+package com.febriyann.myuts
 
 import org.junit.Test
 

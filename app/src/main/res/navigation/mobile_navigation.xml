@@ -7,23 +7,30 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="com.febriyann.utslabmp.home.Home"
+        android:name="com.febriyann.myuts.home.HomeFrag"
         android:label="Home"
-        tools:layout="@layout/fragment_home"/>
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
     <fragment
         android:id="@+id/nav_exercise"
-        android:name="com.febriyann.utslabmp.exercise.Exercise"
+        android:name="com.febriyann.myuts.exercise.ExerciseFrag"
         android:label="Exercise"
-        tools:layout="@layout/fragment_exercise"/>
+        tools:layout="@layout/fragment_exercise">
+    </fragment>
+
     <fragment
         android:id="@+id/nav_mealplan"
-        android:name="com.febriyann.utslabmp.mealplan.MealPlan"
+        android:name="com.febriyann.myuts.mealplan.MealPlanFrag"
         android:label="Meal Plan"
-        tools:layout="@layout/fragment_meal_plan"/>
+        tools:layout="@layout/fragment_meal_plan">
+    </fragment>
+
     <fragment
         android:id="@+id/nav_profile"
-        android:name="com.febriyann.utslabmp.profile.Profile"
+        android:name="com.febriyann.myuts.profile.ProfileFrag"
         android:label="Profile"
-        tools:layout="@layout/fragment_profile"/>
+        tools:layout="@layout/fragment_profile">
+    </fragment>
 
 </navigation>

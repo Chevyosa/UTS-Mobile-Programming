@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UTS Lab MP"
+rootProject.name = "MyUTS"
 include(":app")
+ 

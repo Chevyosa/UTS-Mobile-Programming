@@ -1,10 +1,10 @@
-package com.febriyann.utslabmp
+package com.febriyann.myuts
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
-import com.febriyann.utslabmp.databinding.ActivityMainBinding
+import com.febriyann.myuts.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
